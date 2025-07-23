@@ -162,7 +162,7 @@ header .navbar {
 .hero-section {
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5),
-            rgba(0, 0, 0, 0.5)), url(/assets/render1.jpg);
+            rgba(0, 0, 0, 0.5)), url(assets/render1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
